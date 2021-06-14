@@ -1,0 +1,16 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "pass": "root",
+        "name": "towny"
+    },
+    "port": 7000,
+    "baseURL": "api",
+    "residentURL": "resident",
+    "townURL": "town",
+    "nationURL": "nation",
+    "welcomePhrase": "Welcome on servername Towny Data API !",
+    "logConnections": true,
+    "maxSize": 5000
+}
