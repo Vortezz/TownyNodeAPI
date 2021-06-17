@@ -13,9 +13,6 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
-//Dotenv for .env file
-require('dotenv').config()
-
 //Config importation
 const config = require('./config.json');
 const dbconfig = require('./utils/dbconfig.js');

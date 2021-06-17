@@ -1,10 +1,10 @@
-const env = process.env;
+const config = require('../config.json')
 
 const dbconfig = {
-    host: env.HOST,
-    user: env.USER,
-    password: env.PASS,
-    database: env.NAME,
+    host: config.database.host,
+    user: config.database.user,
+    password: config.database.pass,
+    database: config.database.name,
 };
 
 

@@ -57,7 +57,7 @@ function nationJSON(nationData, townsData) {
         name: nationData[0].name,
         capital: nationData[0].capital,
         allies: allies,
-        ennemies: nationData[0].ennemies,
+        ennemies: ennemies,
         board: nationData[0].nationBoard,
         registeredtime: nationData[0].registered,
         neutral: nationData[0].neutral,
