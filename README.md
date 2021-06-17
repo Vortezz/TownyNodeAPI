@@ -53,8 +53,8 @@ Then you can execute `node index.js` !
 
 # See more
 
-You have any questions about our API ? Check our [docs](https://towny.vortezz.fr) or open an [issue]() !
+You have any questions about our API ? Check our [docs](https://towny.vortezz.fr) or open an [issue](https://github.com/Vortezz/TownyPublicAPI/issues/new/choose) !
 
 # Contribute
 
-You want to help the project ? Or you have find a bug [(Report here please)]() ? Please open an issue that we can fix it !
+You want to help the project ? Or you have find a bug [(Report here please)](https://github.com/Vortezz/TownyPublicAPI/issues/new/choose) ? Please open an issue that we can fix it !
