@@ -29,9 +29,9 @@ const { nation, nations } = require('./classes/nation');
 
 //Utils
 require(`colors`)
-
 var min = 0;
 
+//Routing
 app.get('/api' || '', (req, res) => {
     res.send(config.welcomePhrase);
 });
