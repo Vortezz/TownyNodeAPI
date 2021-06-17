@@ -4,7 +4,7 @@ This API is created to help players retrieve Towny data from their favorite Mine
 
 > The flatfile storage mode is not yet supported !
 
-### ⚠️ I'm not affiliated with Towny ⚠️
+#### ⚠️ I'm not affiliated with Towny ⚠️
 <br>
 
 # Summary :
@@ -17,11 +17,11 @@ This API is created to help players retrieve Towny data from their favorite Mine
 
 The installation is very simple ! Just make sure you have [Node.JS](https://nodejs.org/en/download/) installed on the device !
 
-### 1. Download the repository or use ```git clone insertreponamehere``` and extract it if you need
-### 2. Run ```npm install express colors mysql2``` in the current directory
-### 3. Edit the `config.json` at your own [(See more here)](#basic-config)
-### 4. Run ```node index.js```
-### 5. Enjoy !
+ 1. Download the repository or use ```git clone https://github.com/Vortezz/TownyPublicAPI.git``` and extract it if you need
+ 2. Run ```npm install express colors mysql2``` in the current directory
+ 3. Edit the `config.json` at your own [(See more here)](#basic-config)
+ 4. Run ```node index.js```
+ 5. Enjoy !
 <br>
 
 # Basic Config
@@ -53,7 +53,7 @@ Then you can execute `node index.js` !
 
 # See more
 
-You have any questions about our API ? Check our [docs]() or open an [issue]() !
+You have any questions about our API ? Check our [docs](https://towny.vortezz.fr) or open an [issue]() !
 
 # Contribute
 
