@@ -22,7 +22,7 @@ const mysql = require('mysql2');
 var connection = mysql.createConnection(dbconfig);
 connection.connect();
 
-//Requests
+//Import requests module
 const { resident, residents } = require('./classes/resident');
 const { town, towns } = require('./classes/town');
 const { nation, nations } = require('./classes/nation');
